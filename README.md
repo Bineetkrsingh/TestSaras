@@ -13,7 +13,8 @@ This repository contains automated tests for automating various scenarios on the
 2. **Setup**:
    - Clone this repository to your local machine:
      ```
-     git clone <repository_url>
+     git clone https://github.com/Bineetkrsingh/TestSaras
+
      ```
    - Navigate to the cloned directory:
      ```
